@@ -43,6 +43,7 @@ api.freewebfonts.org
 api.ip.sb
 api.leanplum.com
 api.opencandy.com
+api.redshell.io
 api.userlike.com
 app.adjust.com
 appsettings.freemake.com
@@ -143,6 +144,7 @@ image2.nametests.com
 images.nvidiagrid.net
 img.oasgames.com
 imgg-cdn.adskeeper.co.uk
+in.treasuredata.com
 info-geschenke.com
 infolink.pavv.co.kr
 ip.sb
@@ -199,6 +201,7 @@ quiz.stroeermediabrands.de
 reasedoper.pw
 redirect.ad-panda.net
 redirect.auskunft.de
+redshell.io
 reimageplus.com
 reports.crashlytics.com
 res.oasgames.com
@@ -253,6 +256,7 @@ tracking.opencandy.com.s3.amazonaws.com
 traffic.tc-clicks.com
 trafficjunky.com
 trafficjunky.net
+treasuredata.com
 trk-int.addealsnetwork.com
 tut-64.com
 update.freemake.com
