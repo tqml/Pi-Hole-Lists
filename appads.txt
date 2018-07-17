@@ -213,6 +213,7 @@ clkmon.com
 clkrev.com
 clmbtech.com
 cold-cold-freezing.com
+com.tenjin.ios.api
 combine.urbanairship.com
 config.inmobi.com
 connect.decknetwork.net
@@ -416,6 +417,7 @@ popadscdn.net
 postrelease.com
 print.theyeshivaworld.info
 projectwonderful.com
+promo.webpayments.closeby.internet.apps.samsung.com
 propellerads.com
 propellerpops.com
 pub.sapo.pt
@@ -520,6 +522,7 @@ wbdds.jeuxvideo.com
 weblockapp.com
 widespace.com
 wigetmedia.com
+wsback-apps.presage.io
 www.alphonso.tv
 www.bestmobileapps.mobi
 www.fqtag.com
