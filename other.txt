@@ -8,6 +8,7 @@ aax-us-west.amazon-adsystem.com
 acroscow.com
 activation.freemake.com
 ad-panda.net
+ad-unicorn.net
 ad.dl.mainpost.de
 ad14.dl.mainpost.de
 ad4game.com
@@ -25,6 +26,7 @@ adservice.google.de
 adsinter1.addealsnetwork.com
 adskeeper.co.uk
 adstax-match.adrtx.net
+adtm.bestcheck.de
 adtrack.7tv.de
 adv.sec.miui.com
 advertising-eu.amazon.com
@@ -69,6 +71,7 @@ bbballs.men
 bcdn.men
 bcp.crwdcntrl.net
 beacon.tapfiliate.com
+bestcheck.de
 bestperforming.site
 bilder.bild.de
 bluekai.com
@@ -83,8 +86,10 @@ callback.inopla.de
 cam4traffic.com
 canary.trafficmanager.net
 car.saturn.de
+cbox.im
 cdn.adskeeper.co.uk
 cdn.ageofmusketeers.com
+cdn.bestcheck.de
 cdn.discordapp.com
 cdn.embed.ly.cdn.cloudflare.net
 cdn.embedly.com
@@ -113,6 +118,7 @@ crashlytics.com
 crwdcntrl.net
 crypto-loot.com
 cstats.sankakucomplex.com
+cyberprotection.pro
 d.otaserve.net
 dailyblogdose.com
 data.mistat.xiaomi.com
@@ -127,6 +133,7 @@ degrk.freehookup.link
 desktop-adv-banners.freemake.com
 device-metrics-us.amazon.com
 difficero.com
+discord.gg
 discordapp.com
 display.ugc.bazaarvoice.com
 dkuim.de
@@ -136,6 +143,7 @@ echo.internetat.tv
 eki.trafficsan.com
 embedly.com
 events.gfe.nvidia.com
+events.golem.de
 everyplay.com
 exelator.com
 extremetracking.com
@@ -148,6 +156,7 @@ finden.sie-kostenlose-sex.com
 forms.hubspot.com
 fsad.trafficmanager.net
 gamingadult.biz
+gebrauchtwagen-suche.t-online.de
 geheimplan.com
 generaed.info
 geoip.freemake.com
@@ -163,6 +172,7 @@ group27.sites.hscoscdn20.net
 has.selectedwinners.trade
 healte.de
 hh-btr.com
+hits.golem.de
 hodlers.party
 hothentaitube.com
 i.4cdn.org
@@ -181,6 +191,7 @@ in.treasuredata.com
 info-geschenke.com
 infolink.pavv.co.kr
 ip.sb
+iqdtms.golem.de
 ir-conductor.clicktale.net
 is2.4chan.org
 j1.jump4geo.com
@@ -218,6 +229,7 @@ minecrunch.co
 minemytraffic.com
 mobile.sunmaker.com
 moradu.com
+music.getyesappz1.com
 mybestmv.com
 mycliplister.com
 mydealz.digidip.net
@@ -235,7 +247,9 @@ nvidia.tt.omtrdc.net
 nydus.org
 oasgames.com
 offergold.online
+p281850.ecdoz.club
 p2c.xplace.de
+partnerfragmente2013.t-online.de
 passport.oasgames.com
 picload.org
 platform.wondershare.com
@@ -249,6 +263,7 @@ quiz.stroeermediabrands.de
 reasedoper.pw
 receive-lp1.dg.srv.nintendo.net
 redirect.ad-panda.net
+redirect.ad-unicorn.net
 redirect.auskunft.de
 redshell.io
 reimageplus.com
@@ -281,10 +296,12 @@ spooner-motorsport.com
 spyoff.com
 spyoff.dislo.cloud
 static-cdn.kueez.com
+static.cbox.ws
 static.exosrv.com.riil1na.belugacdn.com
 static.hsstatic.net
 static.showheroes.com
 static.tapfiliate.com
+static.zotabox.com
 sunmaker-frontapi.cherrytech.com
 sunmaker.com
 sync.crwdcntrl.net
@@ -315,6 +332,7 @@ tracking.opencandy.com.s3.amazonaws.com
 traffic.tc-clicks.com
 trafficjunky.com
 trafficjunky.net
+trafficlord.net
 treasuredata.com
 trk-int.addealsnetwork.com
 tut-64.com
@@ -350,8 +368,10 @@ www.arcadefrontier.com
 www.auskunft.de
 www.battleforthenet.com
 www.bcdn.men
+www.bestcheck.de
 www.bookdepository.com
 www.bullads.net
+www.cbox.ws
 www.conversion.pl
 www.download-genius.com
 www.ehlnakqlcvuxk.bid
@@ -359,6 +379,8 @@ www.freemake.com
 www.gaming-adult.com
 www.gangstacdn.com
 www.gethatch.com
+www.getyesappz1.com
+www.golnk2.com
 www.granify.com
 www.hashing.win
 www.hentai-heroes.es
@@ -378,6 +400,7 @@ www.reimageplus.com
 www.schnell400euro.com
 www.schutzklick.de
 www.sdad.guru
+www.speedrunvideo.com
 www.spielkorb.com
 www.spooner-motorsport.com
 www.spyoff.com
@@ -392,4 +415,6 @@ www.visit-x.net
 www.vungle.com
 www.welzgxwtvto.bid
 www.zononi.com
+www2.cbox.ws
+www3.cbox.ws
 zononi.com
