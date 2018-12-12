@@ -1,5 +1,4 @@
 afd.de
-bild.de
 blog.halle-leaks.de
 contra-magazin.com
 crimekalender.wordpress.com
@@ -35,11 +34,9 @@ truth24.net
 unzensuriert.de
 volksstimme.de
 www.afd.de
-www.bild.de
 www.contra-magazin.com
 www.denken-macht-frei.info
 www.dortmundecho.org
-www.dw.com
 www.epochtimes.de
 www.freiezeiten.net
 www.journalistenwatch.com
