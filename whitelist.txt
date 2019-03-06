@@ -1,145 +1,145 @@
-0.docs.google.com
-106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
-adf.ly
-akamaru.de
-android.clients.google.com
-app.plex.tv
-appleid.apple.com
-apps.skype.com
-apresolve.spotify.com
-attestation.xboxlive.com
-bing.com
-c.s-microsoft.com
-cdn.dynamicyield.com
-cdnapi.kaltura.com
-cert.mgt.xboxlive.com
-cgi2.nintendo.co.jp
-clientconfig.passport.net
-clients2.google.com
-clients4.google.com
-clients6.google.com
-cloudlocker.biz
-code.ponywave.de
-connect.facebook.com
-connect.facebook.net
-cpms.spop10.ams.plex.bz
-cpms35.spop10.ams.plex.bz
-creative.ak.fbcdn.net
-ctldl.windowsupdate.com
-dashboard.plex.tv
-de.ign.com
-def-vef.xboxlive.com
-device.auth.xboxlive.com
-displaycatalog.mp.microsoft.com
-dl.delivery.mp.microsoft.com
-dl.dropboxusercontent.com
-dl.google.com
-dlvr.t-online.de
-eds.xboxlive.com
-external-lhr0-1.xx.fbcdn.net
-external-lhr1-1.xx.fbcdn.net
-external-lhr10-1.xx.fbcdn.net
-external-lhr2-1.xx.fbcdn.net
-external-lhr3-1.xx.fbcdn.net
-external-lhr4-1.xx.fbcdn.net
-external-lhr5-1.xx.fbcdn.net
-external-lhr6-1.xx.fbcdn.net
-external-lhr7-1.xx.fbcdn.net
-external-lhr8-1.xx.fbcdn.net
-external-lhr9-1.xx.fbcdn.net
-fbcdn-creative-a.akamaihd.net
-g.live.com
-geo-prod.do.dsp.mp.microsoft.com
-gfwsl.geforce.com
-gravatar.com
-help.ui.xboxlive.com
-homebrew.cloud
-hosts-file.net
-i.s-microsoft.com
-img.akamaru.de
-img.alibaba.com
-img.ponywave.de
-img.share-online.biz
-itunes.apple.com
-licensing.xboxlive.com
-login.live.com
-m.hotmail.com
-malwaredomains.lehigh.edu
-mandrillapp.com
-mesu.apple.com
-meta-db-worker02.pop.ric.plex.bz
-meta.plex.bz
-meta.plex.tv
-metrics.plex.tv
-mirror1.malwaredomains.com
-nibutani.local
-nine.plugins.plexapp.com
-node.plexapp.com
-notify.xboxlive.com
-ns1.dropbox.com
-ns2.dropbox.com
-o1.email.plex.tv
-o2.sg0.plex.tv
-officeclient.microsoft.com
-outlook.office365.com
-ow.ly
-p.t-online.de
-partner.dhl.de
-pgl.yoyo.org
-players.brightcove.net
-plex.tv
-ponywave.de
-pricelist.skype.com
-products.office.com
-proxy.plex.bz
-proxy.plex.tv
-proxy02.pop.ord.plex.bz
-pubsub.plex.bz
-pubsub.plex.tv
-raw.githubusercontent.com
-riko.moe
-s.gateway.messenger.live.com
-s.youtube.com
-s1.symcb.com
-s2.symcb.com
-s3.amazonaws.com
-s3.symcb.com
-s4.symcb.com
-s5.symcb.com
-sa.symcb.com
-scontent-lhr3-1.xx.fbcdn.net
-scontent.fgdl5-1.fna.fbcdn.net
-scontent.xx.fbcdn.net
-settings-win.data.microsoft.com
-spclient.wg.spotify.com
-st.dynamicyield.com
-staging.plex.tv
-status.plex.tv
-store.steampowered.com
-sysctl.org
-themoviedb.com
-thetvdb.com
-title.auth.xboxlive.com
-title.mgt.xboxlive.com
-tubeoffline.com
-tvdb2.plex.tv
-tvthemes.plexapp.com
-tvthemes.plexapp.com.cdn.cloudflare.net
-ui.skype.com
-v10.events.data.microsoft.com
-v10.vortex-win.data.microsoft.com
-video-stats.l.google.com
-vsp-alexa-eu.amazon.com
-www.msftncsi.com
-www.plex.tv
-www.xboxlive.com
-xbox.ipv6.microsoft.com
-xboxexperiencesprod.experimentation.xboxlive.com
-xflight.xboxlive.com
-xkms.xbolive.com
-xsts.auth.xboxlive.com
-xtube.com
-yagyuu.de
-yagyuu.moe
-youtube.com
-zeustracker.abuse.ch
+pihole -w 0.docs.google.com
+pihole -w 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
+pihole -w adf.ly
+pihole -w akamaru.de
+pihole -w android.clients.google.com
+pihole -w app.plex.tv
+pihole -w appleid.apple.com
+pihole -w apps.skype.com
+pihole -w apresolve.spotify.com
+pihole -w attestation.xboxlive.com
+pihole -w bing.com
+pihole -w c.s-microsoft.com
+pihole -w cdn.dynamicyield.com
+pihole -w cdnapi.kaltura.com
+pihole -w cert.mgt.xboxlive.com
+pihole -w cgi2.nintendo.co.jp
+pihole -w clientconfig.passport.net
+pihole -w clients2.google.com
+pihole -w clients4.google.com
+pihole -w clients6.google.com
+pihole -w cloudlocker.biz
+pihole -w code.ponywave.de
+pihole -w connect.facebook.com
+pihole -w connect.facebook.net
+pihole -w cpms.spop10.ams.plex.bz
+pihole -w cpms35.spop10.ams.plex.bz
+pihole -w creative.ak.fbcdn.net
+pihole -w ctldl.windowsupdate.com
+pihole -w dashboard.plex.tv
+pihole -w de.ign.com
+pihole -w def-vef.xboxlive.com
+pihole -w device.auth.xboxlive.com
+pihole -w displaycatalog.mp.microsoft.com
+pihole -w dl.delivery.mp.microsoft.com
+pihole -w dl.dropboxusercontent.com
+pihole -w dl.google.com
+pihole -w dlvr.t-online.de
+pihole -w eds.xboxlive.com
+pihole -w external-lhr0-1.xx.fbcdn.net
+pihole -w external-lhr1-1.xx.fbcdn.net
+pihole -w external-lhr10-1.xx.fbcdn.net
+pihole -w external-lhr2-1.xx.fbcdn.net
+pihole -w external-lhr3-1.xx.fbcdn.net
+pihole -w external-lhr4-1.xx.fbcdn.net
+pihole -w external-lhr5-1.xx.fbcdn.net
+pihole -w external-lhr6-1.xx.fbcdn.net
+pihole -w external-lhr7-1.xx.fbcdn.net
+pihole -w external-lhr8-1.xx.fbcdn.net
+pihole -w external-lhr9-1.xx.fbcdn.net
+pihole -w fbcdn-creative-a.akamaihd.net
+pihole -w g.live.com
+pihole -w geo-prod.do.dsp.mp.microsoft.com
+pihole -w gfwsl.geforce.com
+pihole -w gravatar.com
+pihole -w help.ui.xboxlive.com
+pihole -w homebrew.cloud
+pihole -w hosts-file.net
+pihole -w i.s-microsoft.com
+pihole -w img.akamaru.de
+pihole -w img.alibaba.com
+pihole -w img.ponywave.de
+pihole -w img.share-online.biz
+pihole -w itunes.apple.com
+pihole -w licensing.xboxlive.com
+pihole -w login.live.com
+pihole -w m.hotmail.com
+pihole -w malwaredomains.lehigh.edu
+pihole -w mandrillapp.com
+pihole -w mesu.apple.com
+pihole -w meta-db-worker02.pop.ric.plex.bz
+pihole -w meta.plex.bz
+pihole -w meta.plex.tv
+pihole -w metrics.plex.tv
+pihole -w mirror1.malwaredomains.com
+pihole -w nibutani.local
+pihole -w nine.plugins.plexapp.com
+pihole -w node.plexapp.com
+pihole -w notify.xboxlive.com
+pihole -w ns1.dropbox.com
+pihole -w ns2.dropbox.com
+pihole -w o1.email.plex.tv
+pihole -w o2.sg0.plex.tv
+pihole -w officeclient.microsoft.com
+pihole -w outlook.office365.com
+pihole -w ow.ly
+pihole -w p.t-online.de
+pihole -w partner.dhl.de
+pihole -w pgl.yoyo.org
+pihole -w players.brightcove.net
+pihole -w plex.tv
+pihole -w ponywave.de
+pihole -w pricelist.skype.com
+pihole -w products.office.com
+pihole -w proxy.plex.bz
+pihole -w proxy.plex.tv
+pihole -w proxy02.pop.ord.plex.bz
+pihole -w pubsub.plex.bz
+pihole -w pubsub.plex.tv
+pihole -w raw.githubusercontent.com
+pihole -w riko.moe
+pihole -w s.gateway.messenger.live.com
+pihole -w s.youtube.com
+pihole -w s1.symcb.com
+pihole -w s2.symcb.com
+pihole -w s3.amazonaws.com
+pihole -w s3.symcb.com
+pihole -w s4.symcb.com
+pihole -w s5.symcb.com
+pihole -w sa.symcb.com
+pihole -w scontent-lhr3-1.xx.fbcdn.net
+pihole -w scontent.fgdl5-1.fna.fbcdn.net
+pihole -w scontent.xx.fbcdn.net
+pihole -w settings-win.data.microsoft.com
+pihole -w spclient.wg.spotify.com
+pihole -w st.dynamicyield.com
+pihole -w staging.plex.tv
+pihole -w status.plex.tv
+pihole -w store.steampowered.com
+pihole -w sysctl.org
+pihole -w themoviedb.com
+pihole -w thetvdb.com
+pihole -w title.auth.xboxlive.com
+pihole -w title.mgt.xboxlive.com
+pihole -w tubeoffline.com
+pihole -w tvdb2.plex.tv
+pihole -w tvthemes.plexapp.com
+pihole -w tvthemes.plexapp.com.cdn.cloudflare.net
+pihole -w ui.skype.com
+pihole -w v10.events.data.microsoft.com
+pihole -w v10.vortex-win.data.microsoft.com
+pihole -w video-stats.l.google.com
+pihole -w vsp-alexa-eu.amazon.com
+pihole -w www.msftncsi.com
+pihole -w www.plex.tv
+pihole -w www.xboxlive.com
+pihole -w xbox.ipv6.microsoft.com
+pihole -w xboxexperiencesprod.experimentation.xboxlive.com
+pihole -w xflight.xboxlive.com
+pihole -w xkms.xbolive.com
+pihole -w xsts.auth.xboxlive.com
+pihole -w xtube.com
+pihole -w yagyuu.de
+pihole -w yagyuu.moe
+pihole -w youtube.com
+pihole -w zeustracker.abuse.ch
