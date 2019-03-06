@@ -10,7 +10,6 @@ cdn.digitaltext.n-tv.de
 cdn.digitaltext.rtl.de
 cdn.digitaltext.vox.de
 cdn.hbbtv.smartclip.net
-cdn.samsungcloudsolution.com
 cdn.smartclip.net
 database01p.anixe.net
 de.ioam.de
