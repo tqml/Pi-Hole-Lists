@@ -13,6 +13,7 @@ a.ads2.msads.net
 a.ads2.msn.com
 a.rad.msn.com
 ac3.msn.com
+activity.windows.com
 ad.doubleclick.net
 adl.windows.com
 adnexus.net
