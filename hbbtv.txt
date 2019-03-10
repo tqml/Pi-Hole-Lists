@@ -25,6 +25,7 @@ hbbtv.rtl2.de
 hbbtv.sat1.de
 hbbtv.sixx.de
 hbbtv.zdf.de
+hbbtv.ardmediathek.de
 hbbtv01p.anixe.net
 hbbtvapp.sonnenklar.tv
 ibis.lgappstv.com
