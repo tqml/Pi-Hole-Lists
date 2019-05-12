@@ -12,7 +12,6 @@
 5-8-1-ios.appload.ingest.crittercism.com
 5-8-10-android.appload.ingest.crittercism.com
 578756.gameloft.com
-a-graph.facebook.com
 a.applvn.com
 a.jumptap.com
 a1fd.playfabapi.com
@@ -211,8 +210,6 @@ atwola.com
 avocarrot.com
 awem.zendesk.com
 awempire.com
-b-api.facebook.com
-b-graph.facebook.com
 balancer.devtodev.com
 bannerflow.com
 bbelements.com
@@ -320,7 +317,6 @@ eacdn.com
 eclick.vn
 eclkmpsa.com
 ecpmrocks.com
-edge-mqtt.facebook.com
 elb.qublixaws.com
 embedly.massrelevance.com
 emediate.dk
@@ -364,7 +360,6 @@ googleads.g.doubleclick.net
 googleadservices.com
 googletagservices.com
 graph.accountkit.com
-graph.facebook.com
 graph.instagram.com
 greystripe.com
 growingtechapp.bid
@@ -493,7 +488,6 @@ movad.de
 movi11.com
 mparticle.com
 mpnrs.com
-mqtt-mini.facebook.com
 ms.applovin.com
 ms.applvn.com
 msads.net
