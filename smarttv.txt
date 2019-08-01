@@ -23,7 +23,6 @@ api.nfl.com
 api.us.hismarttv.com
 apicache.vudu.com
 arddigit.ivwbox.de
-auth.samsungosp.com
 az43064.vo.msecnd.net
 b02.black.ndmdhs.com
 bravia.dl.playstation.net
@@ -136,8 +135,6 @@ samsungacr.com
 samsungadhub.com
 samsungcloudsolution.com
 samsungcloudsolution.net
-samsungelectronics.com
-samsungosp.com
 samsungotn.net
 samsungqbe.com
 samsungrm.net
