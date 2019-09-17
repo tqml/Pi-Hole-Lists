@@ -1,4 +1,5 @@
 afd.de
+asylterror.com
 blog.halle-leaks.de
 contra-magazin.com
 crimekalender.wordpress.com
@@ -16,6 +17,7 @@ freiezeiten.net
 gloria.tv
 halle-leaks.de
 hartgeld.com
+impfen-nein-danke.de
 journalistenwatch.com
 kopp-report.de
 kulturstudio.info
@@ -34,7 +36,9 @@ theeuropean.de
 truth24.net
 unzensuriert.de
 volksstimme.de
+wgvdl.com
 www.afd.de
+www.brd-schwindel.org
 www.contra-magazin.com
 www.denken-macht-frei.info
 www.dortmundecho.org
@@ -46,5 +50,6 @@ www.politikversagen.net
 www.rapefugees.net
 www.theeuropean.de
 www.truth24.net
+www.unzensuriert.at
 www.unzensuriert.de
 www.volksstimme.de
