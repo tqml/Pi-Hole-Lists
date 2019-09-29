@@ -2,8 +2,6 @@
 1a-spar-tipp.de
 1lzz.com
 33across.com
-4cdn.org
-4chan.org
 69games.xxx
 6ped2nd3yp.com
 7lyonline.com
@@ -89,8 +87,6 @@ bilder.bild.de
 bluekai.com
 bmcamgirl.com
 bmetrika.com
-boards.4chan.org
-boards.4channel.org
 bradley.curt.ly
 braincloudsharedprod.elasticbeanstalk.com
 broced.co
@@ -219,7 +215,6 @@ hits.golem.de
 hodlers.party
 hothentaitube.com
 hywasyretac.tk
-i.4cdn.org
 i10c.net
 ib.adnxs.com
 ibunker.us
@@ -239,7 +234,6 @@ inter1ads.com
 ip.sb
 iqdtms.golem.de
 ir-conductor.clicktale.net
-is2.4chan.org
 j1.jump4geo.com
 japancrate.refersion.com
 join.spyfam.com
@@ -276,7 +270,6 @@ mediapalmtree.com
 megausenet.download
 megausenet.men
 messengertime.dist-app.com
-mesu.apple.com
 metric-agent.i10c.net
 minecrunch.co
 minemytraffic.com
@@ -351,7 +344,6 @@ res.oasgames.com
 rlcdn.com
 roletaryk.info
 rtrac3.com
-s.4cdn.org
 s.amazon-adsystem.com
 saturn.chocoala.de
 saturn.int.userwerk.com
@@ -468,7 +460,6 @@ worldtimeserver.com
 wpm.ccmp.eu
 ww3.performanceanalyser.net
 wwv.flirtygirls.de
-www.4chan.org
 www.abebooks.de
 www.adtilt.com
 www.adultforce.com
