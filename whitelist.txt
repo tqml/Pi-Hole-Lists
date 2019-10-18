@@ -143,3 +143,5 @@ pihole -w yagyuu.de
 pihole -w yagyuu.moe
 pihole -w youtube.com
 pihole -w zeustracker.abuse.ch
+pihole -w title.auth.xboxlive.com
+pihole -w title.mgt.xboxlive.com
