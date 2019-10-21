@@ -145,3 +145,6 @@ pihole -w youtube.com
 pihole -w zeustracker.abuse.ch
 pihole -w def-vef.xboxlive.com
 pihole -w device.auth.xboxlive.com
+pihole -w officeclient.microsoft.com
+pihole -w outlook.office365.com
+pihole -w products.office.com
