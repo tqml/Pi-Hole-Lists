@@ -143,3 +143,6 @@ pihole -w yagyuu.de
 pihole -w yagyuu.moe
 pihole -w youtube.com
 pihole -w zeustracker.abuse.ch
+pihole -w officeclient.microsoft.com
+pihole -w outlook.office365.com
+pihole -w products.office.com
