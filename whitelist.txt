@@ -29,6 +29,8 @@ pihole -w ctldl.windowsupdate.com
 pihole -w dashboard.plex.tv
 pihole -w de.ign.com
 pihole -w def-vef.xboxlive.com
+pihole -w def-vef.xboxlive.com
+pihole -w device.auth.xboxlive.com
 pihole -w device.auth.xboxlive.com
 pihole -w displaycatalog.mp.microsoft.com
 pihole -w dl.delivery.mp.microsoft.com
@@ -37,8 +39,8 @@ pihole -w dl.google.com
 pihole -w dlvr.t-online.de
 pihole -w eds.xboxlive.com
 pihole -w external-lhr0-1.xx.fbcdn.net
-pihole -w external-lhr1-1.xx.fbcdn.net
 pihole -w external-lhr10-1.xx.fbcdn.net
+pihole -w external-lhr1-1.xx.fbcdn.net
 pihole -w external-lhr2-1.xx.fbcdn.net
 pihole -w external-lhr3-1.xx.fbcdn.net
 pihole -w external-lhr4-1.xx.fbcdn.net
@@ -67,9 +69,9 @@ pihole -w m.hotmail.com
 pihole -w malwaredomains.lehigh.edu
 pihole -w mandrillapp.com
 pihole -w mesu.apple.com
-pihole -w meta-db-worker02.pop.ric.plex.bz
 pihole -w meta.plex.bz
 pihole -w meta.plex.tv
+pihole -w meta-db-worker02.pop.ric.plex.bz
 pihole -w metrics.plex.tv
 pihole -w mirror1.malwaredomains.com
 pihole -w nibutani.local
@@ -81,6 +83,8 @@ pihole -w ns2.dropbox.com
 pihole -w o1.email.plex.tv
 pihole -w o2.sg0.plex.tv
 pihole -w officeclient.microsoft.com
+pihole -w officeclient.microsoft.com
+pihole -w outlook.office365.com
 pihole -w outlook.office365.com
 pihole -w ow.ly
 pihole -w p.t-online.de
@@ -90,6 +94,7 @@ pihole -w players.brightcove.net
 pihole -w plex.tv
 pihole -w ponywave.de
 pihole -w pricelist.skype.com
+pihole -w products.office.com
 pihole -w products.office.com
 pihole -w proxy.plex.bz
 pihole -w proxy.plex.tv
@@ -107,9 +112,9 @@ pihole -w s3.symcb.com
 pihole -w s4.symcb.com
 pihole -w s5.symcb.com
 pihole -w sa.symcb.com
-pihole -w scontent-lhr3-1.xx.fbcdn.net
 pihole -w scontent.fgdl5-1.fna.fbcdn.net
 pihole -w scontent.xx.fbcdn.net
+pihole -w scontent-lhr3-1.xx.fbcdn.net
 pihole -w settings-win.data.microsoft.com
 pihole -w spclient.wg.spotify.com
 pihole -w st.dynamicyield.com
@@ -120,6 +125,8 @@ pihole -w sysctl.org
 pihole -w themoviedb.com
 pihole -w thetvdb.com
 pihole -w title.auth.xboxlive.com
+pihole -w title.auth.xboxlive.com
+pihole -w title.mgt.xboxlive.com
 pihole -w title.mgt.xboxlive.com
 pihole -w tubeoffline.com
 pihole -w tvdb2.plex.tv
@@ -143,5 +150,3 @@ pihole -w yagyuu.de
 pihole -w yagyuu.moe
 pihole -w youtube.com
 pihole -w zeustracker.abuse.ch
-pihole -w title.auth.xboxlive.com
-pihole -w title.mgt.xboxlive.com
