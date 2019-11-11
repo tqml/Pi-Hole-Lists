@@ -105,7 +105,6 @@ cbox.im
 cdn.adskeeper.co.uk
 cdn.ageofmusketeers.com
 cdn.bestcheck.de
-cdn.discordapp.com
 cdn.embed.ly.cdn.cloudflare.net
 cdn.embedly.com
 cdn.granify.com
@@ -160,9 +159,6 @@ desktop-adv-banners.freemake.com
 device-metrics-us.amazon.com
 difficero.com
 dinoflix.de
-discord.gg
-discord.statuspage.io
-discordapp.com
 display.ugc.bazaarvoice.com
 disqusads.com
 djiboutdifficial.info
@@ -253,7 +249,6 @@ landing.wunderino.com
 landings.ichwuerde.de
 linksave.in
 listat.biz
-littles.moe
 livejasmin.com
 lmodr.biz
 loadm.exelator.com
@@ -265,7 +260,6 @@ main.dynsrvbaa.com
 malikki.win
 mataharirama.xyz
 mazu.sec.miui.com
-media.discordapp.net
 media.opencandy.com
 media.yoox.biz
 mediapalmtree.com
@@ -289,8 +283,6 @@ n.pclicc1.com
 nebadu.com
 network.nutaku.net
 newalbumreleases.net
-news-video-stream.plex.tv
-news.provider.plex.tv
 newsticker.shortnews.de
 nl.speeddials.opera.com
 nlkdom.com
@@ -321,7 +313,6 @@ pirinnlanufa.com
 platform.loyaltylion.com
 platform.wondershare.com
 player.ooyala.com
-podcasts.provider.plex.tv
 poker.bet365.com
 popads.media
 posts-cdn.kueez.com
@@ -387,7 +378,6 @@ static.sooqr.com
 static.stream.to
 static.tapfiliate.com
 static.zotabox.com
-status.discordapp.com
 stream.to
 sunmaker-frontapi.cherrytech.com
 sunmaker.com
