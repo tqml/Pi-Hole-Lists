@@ -178,6 +178,8 @@ api.pubnative.net
 api.smbeat.jp
 api.uca.cloud.unity3d.com
 api.unthem.com
+api.ximalaya.com
+api.ximalaya.com.wsglb0.com
 app-adforce.jp
 app-analytics.snapchat.com
 app-measurement.com
@@ -222,6 +224,7 @@ bestmobileapps.mobi
 bidvertiser.com
 bigmath.vn
 billytesting.com
+bird-videoads.cn-hangzhou.log.aliyuncs.com
 bms.zeptolab.com
 bnmla.com
 bnserving.com
@@ -264,6 +267,7 @@ clkmon.com
 clkrev.com
 clmbtech.com
 cls.mireyn.ru
+cmn.sega-net.com
 cold-cold-freezing.com
 com.tenjin.ios.api
 combine.urbanairship.com
@@ -353,9 +357,11 @@ galaxyattack-de0bd.firebaseio.com
 gate.hockeyapp.net
 gce-sc.bidswitch.net
 gcs.sc-cdn.net
+gdprinfo.mobirix.net
 gemini.yahoo.com
 globaltraffico.com
 go.bebi.com
+go.kid-control.com
 googleads.g.doubleclick.net
 googleadservices.com
 googletagservices.com
@@ -407,6 +413,8 @@ integral-marketing.com
 intellitxt.com
 intermarkets.net
 interseek.si
+ios.bugly.qq.com
+ios.noahapps.jp
 ir-na.amazon-adsystem.com
 js.braintreegateway.com
 js.stripe.com
@@ -443,6 +451,7 @@ log.musical.ly
 logs.locarta.co
 lps.innogames.com
 lps.innogamescdn.com
+m.everyplay.com
 m.quantcount.com
 m.stripe.com
 m.stripe.network
@@ -577,10 +586,12 @@ s-usc1c-nss-223.firebaseio.com
 s-usc1c-nss-233.firebaseio.com
 s-usc1c-nss-249.firebaseio.com
 s.amazon-adsystem.com
+s.kid-control.com
 s1.2mdn.net
 s7.addthis.com
 s8.kid-control.com
 sa.entireweb.com
+saygames.sfo2.cdn.digitaloceanspaces.com
 sbs-ad.com
 sc-analytics.appspot.com
 scanscout.com
@@ -607,6 +618,7 @@ smartclip.net
 snapmobile.asia
 soundwave.mobile.yahoo.com
 spaceshooter.rocketstudio.com.vn
+sparta.qb.mig.tencent-cloud.net
 sponsorpay.com
 ssl.google-analytics.com
 st.bebi.com
@@ -641,6 +653,7 @@ thind-gke-euw.prd.data.corp.unity3d.com
 tom.itv.com
 tr.snapchat.com
 track.barcoo.com
+track.saygames.io
 tracker.fyber.com
 trackers.voodoo-analytics.io
 tracking.adspreemedia.com
