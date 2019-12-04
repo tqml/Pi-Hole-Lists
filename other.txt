@@ -161,7 +161,6 @@ clicks.istripper.com
 clients6.google.com
 cliplister-2.hs.llnwd.net
 cloudlocker.biz
-cloudlocker.biz
 cml5egriskie.xyz
 compass.pressekompass.net
 competition5373.ceapass56.live
@@ -220,7 +219,6 @@ events.golem.de
 everyplay.com
 exelator.com
 explorads.xml.ak-is2.net
-expressusenet.site
 expressusenet.site
 extremetracking.com
 f.badoo.com
@@ -665,3 +663,5 @@ zd.map.fastly.net
 zeag.locationpralognan.fr
 zinspilot.de
 zononi.com
+www.startfenster.de
+www.vlc.de
