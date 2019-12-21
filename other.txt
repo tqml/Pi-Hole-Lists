@@ -129,8 +129,6 @@ cdn.adskeeper.co.uk
 cdn.ageofmusketeers.com
 cdn.ay.gy
 cdn.bestcheck.de
-cdn.embed.ly.cdn.cloudflare.net
-cdn.embedly.com
 cdn.granify.com
 cdn.granify.netdna-cdn.com
 cdn.ichwuerde.com
@@ -209,7 +207,6 @@ echo.internetat.tv
 ecommerce.iap.unity3d.com
 eki.trafficsan.com
 emarselo.fun
-embedly.com
 encodjrfiqflzxewlj.bid
 enginehour.com
 eniki-beniki.info
