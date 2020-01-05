@@ -75,6 +75,7 @@ api.opinary.com
 api.redshell.io
 api.userlike.com
 app.adjust.com
+app.fvr.to
 app.igodigital.com
 apps.nexus.bazaarvoice.com
 appsettings.freemake.com
@@ -187,6 +188,7 @@ de.nametests.com
 de.usenet.nl
 de.vonvon.me
 de.weequizz.com
+deeplink.yoz.io
 degrk.freehookup.link
 dersnotherinab.ml
 desktop-adv-banners.freemake.com
@@ -376,6 +378,8 @@ passport.oasgames.com
 patisserie-conte31.fr
 pc1ads.com
 picload.org
+pin-river.data.ea.com
+ping1-prod.elasticbeanstalk.com
 pirinnlanufa.com
 platform.loyaltylion.com
 platform.wondershare.com
@@ -409,6 +413,7 @@ relink.us
 rep.getsafely.club
 reports.crashlytics.com
 res.oasgames.com
+river.data.ea.com
 rlcdn.com
 roletaryk.info
 rtrac3.com
@@ -449,6 +454,7 @@ slivavils.space
 smartlist.page.link
 smetrics.aem.playstation.com
 sometired.com
+sonar-lhr.xx.fbcdn.net
 sonyjpnpsg-1.hs.llnwd.net
 sonynetworkentertainment.112.2o7.net
 speeddials.opera.com
@@ -457,6 +463,7 @@ spyoff.com
 spyoff.dislo.cloud
 st-n.pc1ads.com
 st-n.pclicc1.com
+star-mini.c10r.facebook.com
 stat.microvirt.com
 static-cdn.kueez.com
 static.cbox.ws
